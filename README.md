@@ -2,7 +2,7 @@
 
 ## Quick Start
 1. Setting the following source file in the source dictionary
-    - [member.csv]()
+    - [member.csv](https://github.com/gummy789j/anan-tool/blob/main/source/member.csv%20sample)
     - [original.csv](https://preschool.tp.edu.tw/ListChild.aspx)
     - [phase1.csv](https://preschool.tp.edu.tw/ListCheckin.aspx)
     - [phase2.csv](https://preschool.tp.edu.tw/ListCheckin.aspx)
